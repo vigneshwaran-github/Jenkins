@@ -7,7 +7,6 @@ public static void main(String[] args) {
 		System.out.println("Hey Aishu");//newly added
 		System.out.println("Hey vignesh");//newly added
 		
-		
 
 		system.out.println("Hey vignesh");//newly added
 	}
